@@ -1,1 +1,1 @@
-<img src="screenshot.png" alt="Smiley face"> 
+<img src="Screenshot.png" alt="Smiley face"> 
